@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @aasmirza
-
--
-- 💞️ I’m looking to collaborate on Vs code
-- 📫 How to reach me 9867638145
+Skill-Set
+Python
+Javascript
+React-JS
+Next-Js
+React-Native
+DataBase
+SEO
 
 <!---
 aasmirza/aasmirza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
